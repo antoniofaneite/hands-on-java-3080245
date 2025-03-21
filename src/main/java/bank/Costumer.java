@@ -1,5 +1,6 @@
 package bank;
 
+
 public class Costumer {
   private int id;
   private String name;
